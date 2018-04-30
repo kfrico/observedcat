@@ -87,6 +87,12 @@
 			"revisionTime": "2017-12-22T11:45:48Z"
 		},
 		{
+			"checksumSHA1": "kjrbJnuRRZxcPUzJrPEc38iACH4=",
+			"path": "github.com/radovskyb/watcher",
+			"revision": "1d8f9aeb09848f7d3e9bbeec08da893f0e8c315d",
+			"revisionTime": "2018-04-01T22:11:39Z"
+		},
+		{
 			"checksumSHA1": "dW6L6oTOv4XfIahhwNzxb2Qu9to=",
 			"path": "github.com/spf13/afero",
 			"revision": "57afd63c68602b63ed976de00dd066ccb3c319db",
